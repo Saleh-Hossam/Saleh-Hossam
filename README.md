@@ -78,6 +78,20 @@ Solved a series of SQL challenges analyzing customer purchasing patterns, menu p
 
 ---
 
+### 📞 [Telecom Customer Churn Analysis](https://github.com/Saleh-Hossam/Telecom-Churn-Analysis)
+**Excel dashboards analyzing 7,043 customers to identify $137K in monthly revenue loss**  
+Built executive and operational dashboards using 31 pivot tables to uncover churn drivers. Identified that Month-to-Month contracts account for 89% of revenue loss and Fiber Optic customers churn at 40.72%.
+
+**Key Features:**
+- Dual-dashboard design (Executive vs Operational)
+- Customer segmentation by demographics, contract type, service usage
+- Churn driver analysis (Competition = 45% of churn)
+- Interactive slicers for dynamic filtering
+
+**Tech Stack:** Excel, Pivot Tables, DAX, Data Visualization
+
+---
+
 ## 📈 GitHub Stats
 
 ![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Hossam&show_icons=true&theme=dark&hide_border=true&count_private=true)
