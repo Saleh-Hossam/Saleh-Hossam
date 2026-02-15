@@ -1,10 +1,12 @@
 # Hi, I'm Saleh Hossam 👋
 
-**Data Analyst | SQL • Power BI • Excel**
+**Junior Data Analyst | SQL • Power BI • Excel**
 
-I build dashboards, write SQL queries, and analyze data to solve real business problems. My projects focus on customer segmentation, sales analytics, supply chain optimization, and business intelligence.
+Junior Data Analyst who turns complex datasets into actionable business insights. Proven track record of identifying revenue opportunities ($202K), preventing churn ($137K/month), and optimizing operations (32K+ units tracked).
 
-📍 **Location:** Giza, Egypt  
+![Hiring](https://img.shields.io/badge/Available_for_Work-Open-brightgreen?style=for-the-badge)
+
+📍 **Location:** Cairo, Egypt  
 🔗 **LinkedIn:** [linkedin.com/in/saleh-hossam](https://linkedin.com/in/saleh-hossam)  
 📧 **Email:** salehhossam611@gmail.com  
 🌐 **Portfolio:** [saleh-hossam.github.io](https://saleh-hossam.github.io)
@@ -20,93 +22,97 @@ I build dashboards, write SQL queries, and analyze data to solve real business p
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 **Core Skills**  
-SQL (CTEs, Window Functions, Joins) • DAX & Power Query • Data Modeling • RFM Analysis • Dashboard Design • Data Cleaning
+SQL (CTEs, Window Functions, Complex Joins) • DAX & Power Query • Data Modeling • Star Schema • RFM Analysis • Dashboard Design • Root Cause Analysis
 
 ---
 
 ## 📊 Featured Projects
 
-### 🚀 [Strategic Sales RFM Dashboard](https://github.com/Saleh-Hossam/Strategic-Sales-RFM-Dashboard)
-**Customer segmentation and sales performance analysis**  
-Built an Excel-based RFM (Recency, Frequency, Monetary) analysis system to segment 18,000+ customers and identify profit leaks. Used Power Pivot and Power Query to create an executive dashboard tracking $12M+ in revenue.
+### 🏆 [Adventure Works Business Intelligence](https://github.com/Saleh-Hossam/Adventure-Works-Business-Intelligence)
+**Identified $202K in revenue recovery opportunities**
 
-**Key Features:**
-- RFM customer segmentation model identifying Champions, At-Risk, and Lost customers
-- Profit leak detection across product categories
-- Executive KPI dashboard with year-over-year trends
+Built end-to-end Power BI solution for global cycling company. Designed star schema data model and created interactive dashboard revealing high-return products costing $202K annually.
+
+**Business Impact:** $202K revenue opportunity | 15% return rate reduction | Inventory optimization
+
+**Tech Stack:** Power BI, DAX, Power Query, Star Schema
+
+---
+
+### 💰 [Telecom Customer Churn Analysis](https://github.com/Saleh-Hossam/Telecom-Customer-Churn)
+**Prevented $137K monthly revenue loss**
+
+Analyzed 7,043 customers to identify churn drivers. Discovered Month-to-Month Fiber Optic customers represent 40% churn rate and $137K monthly revenue risk.
+
+**Business Impact:** $137K/month churn quantified | 89% revenue loss traced to contract type | Retention strategy developed
+
+**Tech Stack:** Excel, Pivot Tables, Power Query, DAX
+
+---
+
+### 📦 [Supply Chain Root Cause Analysis](https://github.com/Saleh-Hossam/Supply-Chain-Root-Cause)
+**Tracked 32,000+ units of inventory loss**
+
+Challenged assumptions through SQL analysis—proved issue was inventory loss (32K+ units), not delivery delays.
+
+**Business Impact:** 32K+ units identified | Operations focus shifted to warehouse auditing
+
+**Tech Stack:** SQL Server, Power BI, Root Cause Analysis
+
+---
+
+### 🚀 [Strategic Sales RFM Dashboard](https://github.com/Saleh-Hossam/Strategic-Sales-RFM-Dashboard)
+**Customer segmentation system tracking $12M+ revenue**
+
+Built RFM analysis segmenting 18,000+ customers into Champions, At-Risk, and Lost categories.
 
 **Tech Stack:** Excel, Power Pivot, Power Query, DAX
 
 ---
 
-### 🚲 [Adventure Works Business Intelligence](https://github.com/Saleh-Hossam/Adventure-Works-Business-Intelligence)
-**End-to-end Power BI solution for a cycling company**  
-Developed a comprehensive BI dashboard analyzing sales, returns, and product performance for a global cycling brand. Uncovered $202K in revenue tied to a single high-return product through data analysis.
-
-**Key Features:**
-- Sales performance tracking across 6 countries
-- Return rate analysis by product category
-- Customer behavior insights and geographic revenue breakdown
-
-**Tech Stack:** Power BI, DAX, Power Query, Data Modeling
-
----
-
-### 📦 [Supply Chain Root Cause Analysis](https://github.com/Saleh-Hossam/Supply-Chain-Root-Cause)
-**Identifying inventory and delivery issues**  
-Analyzed 32,000+ supply chain records to identify root causes of late deliveries and inventory shortages. Built Power BI dashboards to track carrier performance and warehouse efficiency.
-
-**Key Features:**
-- Root cause analysis of delivery delays
-- Carrier performance comparison
-- Warehouse-level inventory tracking
-
-**Tech Stack:** Power BI, SQL, Data Analysis
-
----
-
 ### 🍜 [Danny's Diner SQL Case Study](https://github.com/Saleh-Hossam/Dannys-Diner-SQL)
-**SQL analysis of restaurant customer behavior**  
-Solved a series of SQL challenges analyzing customer purchasing patterns, menu performance, and loyalty program effectiveness using window functions, CTEs, and joins.
+**Advanced SQL showcase**
 
-**Key Features:**
-- Customer spending and visit frequency analysis
-- Most popular menu items identification
-- Loyalty program membership impact analysis
+Solved restaurant analytics challenges using Window Functions, CTEs, and Complex Joins.
 
-**Tech Stack:** SQL Server, T-SQL, Window Functions, CTEs
+**Tech Stack:** SQL Server, T-SQL, Window Functions
 
 ---
 
-### 📞 [Telecom Customer Churn Analysis](https://github.com/Saleh-Hossam/Telecom-Churn-Analysis)
-**Excel dashboards analyzing 7,043 customers to identify $137K in monthly revenue loss**  
-Built executive and operational dashboards using 31 pivot tables to uncover churn drivers. Identified that Month-to-Month contracts account for 89% of revenue loss and Fiber Optic customers churn at 40.72%.
+## 🎓 Background & Credentials
 
-**Key Features:**
-- Dual-dashboard design (Executive vs Operational)
-- Customer segmentation by demographics, contract type, service usage
-- Churn driver analysis (Competition = 45% of churn)
-- Interactive slicers for dynamic filtering
+**Education:**  
+Bachelor of Commerce | Cairo University (2018-2022) | GPA: 3.4  
+Major: Finance & Accounting
 
-**Tech Stack:** Excel, Pivot Tables, DAX, Data Visualization
+**Professional Training:**  
+📜 Professional Diploma in Data Analytics (160 hours) — Alaa Essam Academy  
+📜 Digital Egypt Builders Initiative (DEBI) — Business Analytics Track  
+📜 Corporate Finance Institute — Power BI, Power Query, Excel
+
+**Competitive Advantage:**  
+My Finance & Accounting background means I understand the business context behind the numbers—what CFOs care about, how P&L statements work, and why operational metrics matter.
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Expanding
+
+- Python for data analysis (Pandas, NumPy)
+- Tableau visualization
+- Advanced DAX optimization
+- Machine learning fundamentals
+
+---
+
+## 📈 GitHub Activity
 
 ![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Hossam&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
-## 🎓 Background
-
-I have a background in **Commerce and Accounting**, which gives me a strong understanding of business metrics, financial analysis, and how data drives business decisions. I'm currently focused on building technical skills in SQL, Power BI, and Python to bridge the gap between business questions and data-driven answers.
-
----
-
 ## 📫 Let's Connect
 
-I'm always interested in collaborating on data projects, discussing analytics approaches, or connecting with fellow data enthusiasts.
+I'm actively seeking Junior Data Analyst opportunities and always interested in discussing data projects.
 
 - 💼 [LinkedIn](https://linkedin.com/in/saleh-hossam)
 - 📧 [salehhossam611@gmail.com](mailto:salehhossam611@gmail.com)
