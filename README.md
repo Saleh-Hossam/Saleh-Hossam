@@ -1,123 +1,140 @@
-# Hi, I'm Saleh Hossam 👋
+<div align="center">
 
-**Junior Data Analyst | SQL • Power BI • Excel**
+# Saleh Hossam
 
-Junior Data Analyst who turns complex datasets into actionable business insights. Proven track record of identifying revenue opportunities ($202K), preventing churn ($137K/month), and optimizing operations (32K+ units tracked).
+**Data Analyst · SQL · Power BI · Excel**
 
-![Hiring](https://img.shields.io/badge/Available_for_Work-Open-brightgreen?style=for-the-badge)
+*Turning raw data into decisions that move the business forward*
 
-📍 **Location:** Cairo, Egypt  
-🔗 **LinkedIn:** [linkedin.com/in/saleh-hossam](https://linkedin.com/in/saleh-hossam)  
-📧 **Email:** salehhossam611@gmail.com  
-🌐 **Portfolio:** [saleh-hossam.github.io](https://saleh-hossam.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-hossam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=githubpages&logoColor=white)](https://saleh-hossam.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salehhossam611@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge)](https://linkedin.com/in/saleh-hossam)
 
----
+📍 Cairo, Egypt
 
-## 🛠️ Tools & Technologies
-
-**Data Analysis & Visualization**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Data Processing & Querying**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-**Core Skills**  
-SQL (CTEs, Window Functions, Complex Joins) • DAX & Power Query • Data Modeling • Star Schema • RFM Analysis • Dashboard Design • Root Cause Analysis
+</div>
 
 ---
 
-## 📊 Featured Projects
+## About
 
-### 🏆 [Adventure Works Business Intelligence](https://github.com/Saleh-Hossam/Adventure-Works-Business-Intelligence)
-**Identified $202K in revenue recovery opportunities**
+Data Analyst with a Finance & Accounting background — which means I don't just find patterns in data, I understand what those patterns mean for the business. From identifying $202K in recovery opportunities to quantifying $137K/month in churn risk, my work connects SQL and Power BI output to outcomes stakeholders actually care about.
 
-Built end-to-end Power BI solution for global cycling company. Designed star schema data model and created interactive dashboard revealing high-return products costing $202K annually.
-
-**Business Impact:** $202K revenue opportunity | 15% return rate reduction | Inventory optimization
-
-**Tech Stack:** Power BI, DAX, Power Query, Star Schema
+Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business Analytics Track, and accepted into the **GCI World 2026** data science program at the University of Tokyo (starting April 2026).
 
 ---
 
-### 💰 [Telecom Customer Churn Analysis](https://github.com/Saleh-Hossam/Telecom-Customer-Churn)
-**Prevented $137K monthly revenue loss**
+## Tech Stack
 
-Analyzed 7,043 customers to identify churn drivers. Discovered Month-to-Month Fiber Optic customers represent 40% churn rate and $137K monthly revenue risk.
-
-**Business Impact:** $137K/month churn quantified | 89% revenue loss traced to contract type | Retention strategy developed
-
-**Tech Stack:** Excel, Pivot Tables, Power Query, DAX
-
----
-
-### 📦 [Supply Chain Root Cause Analysis](https://github.com/Saleh-Hossam/Supply-Chain-Root-Cause)
-**Tracked 32,000+ units of inventory loss**
-
-Challenged assumptions through SQL analysis—proved issue was inventory loss (32K+ units), not delivery delays.
-
-**Business Impact:** 32K+ units identified | Operations focus shifted to warehouse auditing
-
-**Tech Stack:** SQL Server, Power BI, Root Cause Analysis
+| Category | Tools |
+|----------|-------|
+| **Databases & SQL** | SQL Server, MySQL, CTEs, Window Functions, Complex Joins, Subqueries, Views |
+| **Business Intelligence** | Power BI, DAX, Star Schema Design, Data Modeling, Interactive Dashboards |
+| **Excel & ETL** | Advanced Excel, Power Query, Power Pivot, PivotTables, XLOOKUP |
+| **Analytics** | EDA, Root Cause Analysis, KPI Tracking, RFM Segmentation, A/B Testing, Conversion Funnels |
+| **Tools** | Salesforce CRM, Git, GitHub, Microsoft Office Suite |
 
 ---
 
-### 🚀 [Strategic Sales RFM Dashboard](https://github.com/Saleh-Hossam/Strategic-Sales-RFM-Dashboard)
-**Customer segmentation system tracking $12M+ revenue**
+## Featured Projects
 
-Built RFM analysis segmenting 18,000+ customers into Champions, At-Risk, and Lost categories.
+### [Olist Brazilian E-Commerce Analysis](https://github.com/Saleh-Hossam/Olist-Brazilian-Ecommerce-Analysis)
+`SQL Server` `Power BI` `DAX` `Star Schema` `Window Functions` `CTEs`
 
-**Tech Stack:** Excel, Power Pivot, Power Query, DAX
+End-to-end analysis of 99,441 orders and $15.84M in revenue across a Brazilian e-commerce platform.
 
----
-
-### 🍜 [Danny's Diner SQL Case Study](https://github.com/Saleh-Hossam/Dannys-Diner-SQL)
-**Advanced SQL showcase**
-
-Solved restaurant analytics challenges using Window Functions, CTEs, and Complex Joins.
-
-**Tech Stack:** SQL Server, T-SQL, Window Functions
+- Resolved 547 duplicate review records using `ROW_NUMBER()` to ensure data integrity before any analysis
+- Designed a 5-view star schema in SQL Server; connected Power BI only after all business logic was validated in SQL
+- **Key finding:** Customers who received orders 7 days later than average left 1-star reviews — delivery speed is the single strongest predictor of satisfaction
 
 ---
 
-## 🎓 Background & Credentials
+### [MavenFuzzyFactory E-Commerce Hackathon](https://github.com/Saleh-Hossam/MavenFuzzyFactory-Hackathon)
+`MySQL` `Conversion Funnel Analysis` `A/B Testing` `Cross-Sell Analysis`
 
-**Education:**  
-Bachelor of Commerce | Cairo University (2018-2022) | GPA: 3.4  
-Major: Finance & Accounting
+DEBI Business Analytics Hackathon — 3 years of e-commerce data, 4-person team, investor-grade output.
 
-**Professional Training:**  
-📜 Professional Diploma in Data Analytics (160 hours) — Alaa Essam Academy  
-📜 Digital Egypt Builders Initiative (DEBI) — Business Analytics Track  
-📜 Corporate Finance Institute — Power BI, Power Query, Excel
-
-**Competitive Advantage:**  
-My Finance & Accounting background means I understand the business context behind the numbers—what CFOs care about, how P&L statements work, and why operational metrics matter.
+- Analyzed 472,871 sessions and 32,313 orders; identified conversion rates, funnel drop-offs, and revenue trends
+- Pinpointed a critical bottleneck at the product detail page (43.4% vs. 68%+ on other pages) — a 10pp improvement = **$2,446/month**
+- Led 6 of 10 analytical challenges including A/B test ROI, cross-sell analysis, and a $100K strategic roadmap backed by confirmed revenue data
 
 ---
 
-## 🌱 Currently Expanding
+### [Adventure Works Business Intelligence](https://github.com/Saleh-Hossam/Adventure-Works-Business-Intelligence)
+`Power BI` `DAX` `Star Schema` `Data Modeling`
 
-- Python for data analysis (Pandas, NumPy)
-- Tableau visualization
-- Advanced DAX optimization
-- Machine learning fundamentals
+Built a full BI solution from raw data to executive dashboard for a global cycling company.
 
----
-
-## 📈 GitHub Activity
-
-![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Hossam&show_icons=true&theme=dark&hide_border=true&count_private=true)
+- Designed star schema, wrote DAX measures for revenue trends, and surfaced **$202K** in recovery opportunities across underperforming product lines
+- Dashboard used by stakeholders to track KPIs, compare product line performance, and prioritize inventory decisions
 
 ---
 
-## 📫 Let's Connect
+### [Supply Chain Root Cause Analysis](https://github.com/Saleh-Hossam/Supply-Chain-Root-Cause)
+`SQL Server` `Power BI` `Window Functions` `CTEs`
 
-I'm actively seeking Junior Data Analyst opportunities and always interested in discussing data projects.
+A case study in challenging the obvious answer with data.
 
-- 💼 [LinkedIn](https://linkedin.com/in/saleh-hossam)
-- 📧 [salehhossam611@gmail.com](mailto:salehhossam611@gmail.com)
-- 🌐 [Portfolio Website](https://saleh-hossam.github.io)
+- Initial hypothesis: delivery delays are the problem. SQL analysis proved otherwise
+- **Real root cause:** 32,000+ units of lost inventory — redirecting operations focus from logistics to warehouse auditing
 
 ---
 
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+### [Telecom Customer Churn Analysis](https://github.com/Saleh-Hossam/Telecom-Customer-Churn)
+`Excel` `Power Query` `RFM Analysis` `Churn Analysis`
+
+Analyzed 7,000+ telecom customers to identify and quantify churn risk.
+
+- Discovered that Fiber Optic users on month-to-month contracts churn at **40%**, accounting for **$137K/month** in revenue loss
+- Analysis directly informed a targeted retention strategy for the highest-risk segment
+
+---
+
+## Experience
+
+**Back Office Advisor** — FLINK Business Solutions, Cairo *(Oct 2024 – Present)*
+> Validate and audit high-volume datasets across Salesforce CRM and internal systems; maintain 99% data accuracy across all reporting workflows. Reconcile customer records and streamline document verification processes using Advanced Excel.
+
+**Customer Service Representative** — e& UAE (Etisalat Global Services), Cairo *(Mar – Oct 2024)*
+> Resolved technical complaints for 30+ customers daily using structured root cause analysis to ensure first-call resolution.
+
+---
+
+## Education & Certifications
+
+🎓 **Bachelor of Commerce** — Cairo University *(2018–2022)* | Finance & Accounting | GPA: 3.4
+
+📘 **Digital Egypt Builders Initiative (DEBI)** — Business Analytics Track *(Oct 2025 – Present)*
+SQL · Power BI · Data Warehousing · Advanced Analytics · Tableau · Python
+
+📘 **Professional Diploma in Data Analytics** — Alaa Essam Academy *(May–Nov 2025)*
+160-hour program: SQL Server, Power BI, Excel
+
+📜 **Corporate Finance Institute (CFI):** Financial Statements in Power BI · Intermediate DAX & Time Intelligence · Power BI Fundamentals · Power Pivot · Power Query · Data Analysis in Excel
+
+📜 **HackerRank:** SQL Advanced Certificate · SQL Intermediate Certificate
+
+📜 **Coursera:** Introduction to Databases *(Meta)* · Statistical Distributions *(Rice University)*
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Hossam&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to Junior Data Analyst opportunities — let's connect.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-hossam) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=flat-square&logo=githubpages&logoColor=white)](https://saleh-hossam.github.io) &nbsp;
+[![Email](https://img.shields.io/badge/salehhossam611@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salehhossam611@gmail.com)
+
+</div>
