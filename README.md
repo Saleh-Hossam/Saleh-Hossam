@@ -16,7 +16,7 @@
 
 ## About
 
-Finance background, data analyst mindset. I spent years working with numbers in an accounting context — which means when I run an analysis, I'm already thinking about what the output costs or earns the business.
+Finance background, data analyst mindset. I worked with numbers in an accounting context — which means when I run an analysis, I'm already thinking about what the output costs or earns the business.
 
 I work across the full pipeline: SQL queries, star schema design, DAX measures, Power Query transformations, and Power BI dashboards. The goal is always the same — get from messy data to a clear answer someone can act on.
 
