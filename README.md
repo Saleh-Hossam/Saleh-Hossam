@@ -56,7 +56,7 @@ DEBI Business Analytics Hackathon — 3 years of e-commerce data, 4-person team,
 
 - Analyzed 472,871 sessions and 32,313 orders across conversion funnels, A/B tests, and revenue trends
 - Pinpointed a product detail page converting at 43.4% — nearly 25 points below other funnel steps — a 10pp improvement = **$2,446/month**
-- Personally led 6 of 10 analytical challenges including A/B test ROI, cross-sell analysis, and a $100K strategic roadmap backed entirely by confirmed revenue data
+- Personally led 5 of 10 analytical challenges including A/B test ROI, cross-sell analysis, and a $100K strategic roadmap backed entirely by confirmed revenue data
 
 ---
 
