@@ -22,7 +22,7 @@ Finance background, data analyst mindset. I worked with numbers in an accounting
 
 I work across the full pipeline: SQL queries, star schema design, DAX measures, Power Query transformations, and Power BI dashboards. The goal is always the same — get from messy data to a clear answer someone can act on.
 
-Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business Analytics Track and accepted into **GCI World 2026** at the University of Tokyo (April 2026).
+Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business Analytics Track and the **GCI World 2026** data science program at the University of Tokyo.
 
 ---
 
@@ -66,12 +66,24 @@ Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 ---
 
 ## Projects
+
+### [HR Analytics Dashboard](https://github.com/Saleh-Hossam/HR-Analytics-Dashboard)
+`Power BI` `DAX` `Star Schema` `Data Modeling` `Figma`
+
+4-page Power BI dashboard covering 1,470 employees across HR, Sales, and Technology from 2012 to 2022. Layout prototyped in Figma before build.
+
+- Modeled 8 DAX measure folders covering attrition, compensation, performance, tenure, and training — including a custom measure to prevent the year slicer from distorting performance KPIs
+- **Key finding:** Overtime employees leave at 3× the rate of non-overtime staff (30.53% vs 10.44%); Sales and Technology drive 95% of $14.62M in total turnover cost
+- Identified Senior Software Engineers as the most concerning performance risk — 37.50% low performers despite being the most tenured technical role
+
+---
 
 ### [Olist Brazilian E-Commerce Analysis](https://github.com/Saleh-Hossam/Olist-Brazilian-Ecommerce-Analysis)
 `SQL Server` `Power BI` `DAX` `Star Schema` `Window Functions` `CTEs`
@@ -87,7 +99,7 @@ End-to-end analysis of 99,441 orders and $15.84M in revenue across a Brazilian e
 ### [MavenFuzzyFactory E-Commerce Hackathon](https://github.com/Saleh-Hossam/MavenFuzzyFactory-Hackathon)
 `MySQL` `A/B Testing` `Cross-Sell Analysis`
 
-DEBI Business Analytics Hackathon — 3 years of e-commerce data, 4-person team, Rank 3 finish.
+DEBI Business Analytics Hackathon — 3 years of e-commerce data, 4-person team, Rank 3 finish nationally.
 
 - Analyzed 472,871 sessions and 32,313 orders across A/B tests, cross-sell patterns, and revenue trends
 - Pinpointed a product detail page converting at 43.4% — nearly 25 points below other funnel steps — a 10pp improvement = **$2,446/month**
@@ -143,8 +155,8 @@ Finance & Accounting · GPA 3.4
 📘 **Digital Egypt Builders Initiative (DEBI)** — Business Analytics Track *(Oct 2025 – Present)*
 SQL · Power BI · Data Warehousing · Advanced Analytics · Tableau · Python
 
-📘 **Professional Diploma in Data Analytics** — Alaa Essam Academy *(May–Nov 2025)*
-160-hour program: SQL Server, Power BI, Excel
+📘 **GCI World 2026** — University of Tokyo *(Apr 2026 – Present)*
+14-week data science and AI program
 
 📜 **CFI:** Financial Statements in Power BI · Intermediate DAX & Time Intelligence · Power BI Fundamentals · Power Pivot · Power Query · Data Analysis in Excel
 
