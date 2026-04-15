@@ -64,7 +64,6 @@ Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business 
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -167,8 +166,6 @@ SQL · Power BI · Data Warehousing · Advanced Analytics · Tableau · Python
 ---
 
 <div align="center">
-
-![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Hossam&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 *Open to Junior Data Analyst opportunities — let's connect.*
 
