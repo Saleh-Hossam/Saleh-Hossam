@@ -2,7 +2,7 @@
 
 # Saleh Hossam
 
-**Data Analyst · SQL · Power BI · Excel**
+**Data Analyst · SQL · Power BI · DAX · Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-hossam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=githubpages&logoColor=white)](https://saleh-hossam.github.io)
@@ -10,7 +10,7 @@
 [![Phone](https://img.shields.io/badge/01034207458-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201034207458)
 [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/Saleh-Hossam/Saleh-Hossam.github.io/raw/master/assets/Saleh%20Hossam.pdf)
 
-📍 Cairo, Egypt · Open to Junior Data Analyst roles
+📍 Cairo, Egypt · Open to Data Analyst roles
 
 </div>
 
@@ -18,11 +18,11 @@
 
 ## About
 
-Finance background, data analyst mindset. I worked with numbers in an accounting context — which means when I run an analysis, I'm already thinking about what the output costs or earns the business.
+Finance background, data analyst mindset. Working in accounting taught me what the numbers actually mean to a business — which means when I run an analysis, the output is already framed around what it costs or earns someone.
 
-I work across the full pipeline: SQL queries, star schema design, DAX measures, Power Query transformations, and Power BI dashboards. The goal is always the same — get from messy data to a clear answer someone can act on.
+I work across the full pipeline: SQL queries, star schema design, DAX measures, Power Query transformations, and Power BI dashboards — across domains including e-commerce, supply chain, cybersecurity, and HR. The goal is always the same: get from messy data to a clear answer someone can act on.
 
-Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business Analytics Track and the **GCI World 2026** data science program at the University of Tokyo.
+Currently deepening Python and machine learning through **GCI World 2026** at the University of Tokyo, and enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business Analytics Track — a government-sponsored program under Egypt's Ministry of Communications.
 
 ---
 
@@ -51,8 +51,13 @@ Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business 
 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![PivotTables](https://img.shields.io/badge/PivotTables-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![XLOOKUP](https://img.shields.io/badge/XLOOKUP-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Python**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 
 **Analytics**
 
@@ -73,14 +78,14 @@ Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business 
 
 ## Projects
 
-### [HR Analytics Dashboard](https://github.com/Saleh-Hossam/HR-Analytics-Dashboard)
-`Power BI` `DAX` `Star Schema` `Data Modeling` `Figma`
+### [Cybersecurity Incident Analysis — Operation Swift Recovery](https://github.com/Saleh-Hossam)
+`Python` `Pandas` `NumPy` `Matplotlib` `MySQL`
 
-4-page Power BI dashboard covering 1,470 employees across HR, Sales, and Technology from 2012 to 2022. Layout prototyped in Figma before build.
+Forensic data analysis of a coordinated multi-vector cyber attack on a fictional bank — 15,500 events, 550 attackers, 13 countries, 3 hours.
 
-- Modeled 8 DAX measure folders covering attrition, compensation, performance, tenure, and training — including a custom measure to prevent the year slicer from distorting performance KPIs
-- **Key finding:** Overtime employees leave at 3× the rate of non-overtime staff (30.53% vs 10.44%); Sales and Technology drive 95% of $14.62M in total turnover cost
-- Identified Senior Software Engineers as the most concerning performance risk — 37.50% low performers despite being the most tenured technical role
+- Built a composite danger score weighting attacks by business consequence rather than raw frequency — SQL Injection scored 19× higher than DDoS despite lower volume
+- **Key finding:** 24.2% WAF bypass rate for SQL Injection; peak intensity at minute 58, not minute 1 — behavioral signature of a human-operated attack, not automated bots
+- Delivered a prioritized $575K remediation roadmap projected to cut repeat-attack probability from 40% to under 10% within 12 months
 
 ---
 
@@ -90,13 +95,13 @@ Currently enrolled in the **Digital Egypt Builders Initiative (DEBI)** Business 
 End-to-end analysis of 99,441 orders and $15.84M in revenue across a Brazilian e-commerce platform.
 
 - Resolved 547 duplicate review records using `ROW_NUMBER()` before any analysis ran — data integrity first
-- Designed a 5-view star schema in SQL Server; Power BI connected only after all business logic was validated in SQL
+- Designed a 5-table star schema in SQL Server; Power BI connected only after all business logic was validated in SQL
 - **Key finding:** Customers receiving orders 7+ days late were far more likely to leave 1-star reviews — delivery speed is the single strongest predictor of satisfaction
 
 ---
 
 ### [MavenFuzzyFactory E-Commerce Hackathon](https://github.com/Saleh-Hossam/MavenFuzzyFactory-Hackathon)
-`MySQL` `A/B Testing` `Cross-Sell Analysis`
+`MySQL` `Figma` `HTML` `A/B Testing` `Cross-Sell Analysis`
 
 DEBI Business Analytics Hackathon — 3 years of e-commerce data, 4-person team, Rank 3 finish nationally.
 
@@ -106,13 +111,14 @@ DEBI Business Analytics Hackathon — 3 years of e-commerce data, 4-person team,
 
 ---
 
-### [Adventure Works Business Intelligence](https://github.com/Saleh-Hossam/Adventure-Works-Business-Intelligence)
-`Power BI` `DAX` `Star Schema` `Data Modeling`
+### [HR Analytics Dashboard](https://github.com/Saleh-Hossam/HR-Analytics-Dashboard)
+`Power BI` `DAX` `Star Schema` `Data Modeling` `Figma`
 
-Full BI solution from raw data to executive dashboard for a global cycling company.
+4-page Power BI dashboard covering 1,470 employees across HR, Sales, and Technology from 2012 to 2022. Layout prototyped in Figma before build.
 
-- Designed the star schema, wrote DAX measures for revenue trends, and surfaced **$202K** in recovery opportunities across underperforming product lines
-- Dashboard built for stakeholders to track KPIs, compare product lines, and prioritize inventory decisions
+- Modeled 8 DAX measure folders covering attrition, compensation, performance, tenure, and training — including a custom measure to prevent the year slicer from distorting performance KPIs
+- **Key finding:** Overtime employees leave at 3× the rate of non-overtime staff (30.53% vs 10.44%); Sales and Technology drive 95% of $14.62M in total turnover cost
+- Identified Senior Software Engineers as the most concerning performance risk — 37.50% low performers despite being the most tenured technical role
 
 ---
 
@@ -126,22 +132,28 @@ A case study in not trusting the obvious answer.
 
 ---
 
-### [Telecom Customer Churn Analysis](https://github.com/Saleh-Hossam/Telecom-Customer-Churn)
-`Excel` `Power Query` `RFM Analysis` `Churn Analysis`
+### [Strategic Sales & RFM Dashboard](https://github.com/Saleh-Hossam/Strategic-Sales-RFM-Dashboard)
+`Excel` `Power Pivot` `Power Query` `DAX`
 
-Analyzed 7,000+ telecom customers to identify and quantify churn risk.
+Multi-view sales performance model across ~10K records, built for three distinct stakeholder audiences.
 
-- Fiber Optic users on month-to-month contracts churn at **40%** — accounting for **$137K/month** in revenue loss
-- Analysis pointed directly at the highest-risk segment for targeted retention
+- Built Executive, Operations, and Customer views in a single Power Pivot data model — each showing a different cut of the same data
+- Applied RFM segmentation to flag premium accounts at churn risk and isolated loss-making territories through margin variance analysis
 
 ---
 
 ## Experience
 
-**Back Office Advisor** — FLINK Business Solutions, Cairo *(Oct 2024 – Present)*
+**Data Science & AI Scholar** — Matsuo-Iwasawa Lab, University of Tokyo *(Apr 2026 – Present)*
+Selected from 7,000+ applicants across 436 universities in 33 countries for GCI World 2026. 3-month intensive covering Python (NumPy, Pandas), machine learning, SQL, and real business case applications.
+
+**Data Analyst** — Digital Egypt Builders Initiative (DEBI) *(Nov 2025 – Present)*
+Government-sponsored 8-month business analytics scholarship under Egypt's Ministry of Communications. Competed in the DEBI Business Analytics Hackathon with a 4-person team, placing 3rd nationally.
+
+**Back Office Advisor (Data & Operations)** — FLINK Business Solutions *(Oct 2024 – Present)*
 Validate and audit high-volume datasets across Salesforce CRM and internal systems. Maintain 99% data accuracy across reporting workflows. Reconcile customer records and streamline document verification using Advanced Excel.
 
-**Customer Service Representative** — e& UAE (Etisalat), Cairo *(Mar – Oct 2024)*
+**Customer Service Representative** — e& UAE (Etisalat) *(Mar – Oct 2024)*
 Resolved technical complaints for 30+ customers daily using structured root cause analysis.
 
 ---
@@ -151,23 +163,23 @@ Resolved technical complaints for 30+ customers daily using structured root caus
 🎓 **Bachelor of Commerce** — Cairo University *(2018–2022)*
 Finance & Accounting · GPA 3.4
 
-📘 **Digital Egypt Builders Initiative (DEBI)** — Business Analytics Track *(Oct 2025 – Present)*
-SQL · Power BI · Data Warehousing · Advanced Analytics · Tableau · Python
+📜 **Professional Diploma in Data Analytics** — Alaa Essam Academy *(May – Nov 2025)*
+160 hrs · SQL Server, Power BI, Excel
 
-📘 **GCI World 2026** — University of Tokyo *(Apr 2026 – Present)*
-14-week data science and AI program
+📜 **Corporate Finance Institute (CFI)** *(Dec 2025 – Mar 2026)*
+Financial Statements in Power BI · Intermediate DAX & Time Intelligence · Power BI Fundamentals · Power Pivot & Power Query · Data Analysis in Excel
 
-📜 **CFI:** Financial Statements in Power BI · Intermediate DAX & Time Intelligence · Power BI Fundamentals · Power Pivot · Power Query · Data Analysis in Excel
+📜 **HackerRank:** SQL Advanced · SQL Intermediate *(Feb 2026)*
 
-📜 **HackerRank:** SQL Advanced · SQL Intermediate
+📜 **EDUCBA:** NumPy & Pandas: Analyze & Transform Data *(May 2026)*
 
-📜 **Coursera:** Introduction to Databases *(Meta)* · Statistical Distributions *(Rice University)*
+📜 **Additional:** Programming for Everybody (U of Michigan) · Analyze Markets: SWOT (Coursera) · Introduction to Databases (Meta) · Statistical Distributions (Rice University)
 
 ---
 
 <div align="center">
 
-*Open to Junior Data Analyst opportunities — let's connect.*
+*Let's connect.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-hossam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=flat-square&logo=githubpages&logoColor=white)](https://saleh-hossam.github.io)
